@@ -18,17 +18,3 @@ MACHINE LEARNING
 <p align="center">
   <img src="/img/Commercial_Shipping.jpg" width="600" title="Commercial Shipping">
 </p>
-
-## Contribute
-
-**Contact**
-* [Email](mailto:adam.c.dick@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/adamcdick/)
-* [Medium](https://medium.com/@adam.c.dick)
-* [Scholar](https://scholar.google.com/citations?user=eMO88ogAAAAJ&hl=en)
-
-**Acknowledgements**
-* Image by [Anker Crew Insurance](https://www.ankercrew.com)
-
-**License**
-* [MIT License](https://github.com/acdick/dynamic_speed_optimization/blob/master/LICENSE)
